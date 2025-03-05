@@ -1,0 +1,35 @@
+/* Only basic structure, needs improvement */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.services {
+    display: flex;
+    justify-content: space-around;
+}
+
+.service {
+    width: 30%;
+    text-align: center;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
